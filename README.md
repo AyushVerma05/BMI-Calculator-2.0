@@ -17,3 +17,11 @@ Underweight
     Obesity
 
 Real-time calculation as users input their data.
+
+** Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+
+Logic: JavaScript for BMI calculation and health category determination.
+
+Design: Minimal and responsive design for various devices.

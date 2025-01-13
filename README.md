@@ -25,3 +25,11 @@ Frontend: HTML, CSS, JavaScript
 Logic: JavaScript for BMI calculation and health category determination.
 
 Design: Minimal and responsive design for various devices.
+
+** How to Use
+
+Enter your weight in kilograms.
+
+Enter your height in feet.
+
+The calculator will display your BMI and the corresponding health category.

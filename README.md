@@ -33,3 +33,13 @@ Enter your weight in kilograms.
 Enter your height in feet.
 
 The calculator will display your BMI and the corresponding health category.
+
+** Future Enhancements
+
+Add unit conversion for height (feet/inches) and weight (pounds).
+
+Include age and gender-based health insights.
+
+Create a history feature to track past BMI calculations.
+
+Mobile-friendly enhancements.

@@ -50,3 +50,10 @@ Mobile-friendly enhancements.
 Inspiration from common health tools and calculators.
 
 Thanks to open-source resources and tutorials that helped in building this project.
+
+
+Author
+
+Ayush Verma
+
+Feel free to contribute or suggest improvements!

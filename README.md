@@ -43,3 +43,10 @@ Include age and gender-based health insights.
 Create a history feature to track past BMI calculations.
 
 Mobile-friendly enhancements.
+
+
+** Acknowledgments
+
+Inspiration from common health tools and calculators.
+
+Thanks to open-source resources and tutorials that helped in building this project.
